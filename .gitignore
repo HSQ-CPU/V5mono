@@ -1,0 +1,21 @@
+# 编译输出
+Output/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+
+# Keil
+*.uvoptx
+*.uvguix.*
+*.bak
+*.dep
+
+# 临时文件
+*.tmp
+*.log
+
+# VSCode / 其他
+.vscode/
